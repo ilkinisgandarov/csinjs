@@ -1,0 +1,22 @@
+{
+  "name": "csinjs",
+  "version": "1.0.0",
+  "description": "Computer Science in JavaScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ilkinisgandarov/csinjs.git"
+  },
+  "keywords": [
+    "computerscience",
+    "algorithms",
+    "datastructures",
+    "javascript"
+  ],
+  "author": "Ilkin Isgandarov (ilkin.isgandarov@gmail.com)",
+  "license": "MIT",
+  "homepage": "https://github.com/ilkinisgandarov/csinjs#readme"
+}

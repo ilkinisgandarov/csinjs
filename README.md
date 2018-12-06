@@ -1,5 +1,5 @@
 # Computer Science in JavaScript. 
-### Interesting algorithmic tasks, implementation of data strcutures.
+### Interesting algorithmic tasks, implementation of data structures.
 
 ### Algorithms
 ##### Sorting

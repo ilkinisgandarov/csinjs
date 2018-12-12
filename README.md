@@ -6,7 +6,7 @@
 ### Algorithms
 ##### Sorting
 * Quick Sort
-* Selection Sort
+* <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/algorithms/sorting/selection-sort">Selection Sort</a>
 * Bubble Sort
 
 License

@@ -2,9 +2,9 @@
   "name": "csinjs",
   "version": "1.0.0",
   "description": "Computer Science in JavaScript",
-  "main": "index.js",
+  "main": "",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha ./algorithms/**/*.test.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,10 @@
   ],
   "author": "Ilkin Isgandarov (ilkin.isgandarov@gmail.com)",
   "license": "MIT",
-  "homepage": "https://github.com/ilkinisgandarov/csinjs#readme"
+  "homepage": "https://github.com/ilkinisgandarov/csinjs#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "jsdoc": "^3.5.5",
+    "mocha": "^5.2.0"
+  }
 }

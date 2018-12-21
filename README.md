@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/ilkinisgandarov/csinjs.svg?branch=master)](https://travis-ci.org/ilkinisgandarov/csinjs)
 
 # Computer Science in JavaScript. 
-### Interesting algorithmic problems, implementation of data structures.
+### Interesting algorithmic problems and implementation of data structures and common algorithms.
 
 ### Algorithms
 ##### Sorting

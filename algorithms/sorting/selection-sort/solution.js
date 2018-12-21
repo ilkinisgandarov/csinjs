@@ -1,7 +1,6 @@
 /**
  * Sorting array with selection sort.
  * @param {number[]} arr - input array of numbers.
- * @return {number[]} output array of numbers.
  */
 function selectionSort(arr) {
     let len = arr.length;

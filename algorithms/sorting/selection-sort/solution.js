@@ -3,7 +3,7 @@
  * @param {number[]} arr - input array of numbers.
  * @return {number[]} output array of numbers.
  */
-module.exports = function selectionSort(arr) {
+function selectionSort(arr) {
     let len = arr.length;
 
     for (let i = 0; i < len; i++) {
@@ -21,6 +21,6 @@ module.exports = function selectionSort(arr) {
         arr[i] = arr[minIndex];
         arr[minIndex] = temp;
     }
-
-    return arr;
 }
+
+module.exports.selectionSort = selectionSort;

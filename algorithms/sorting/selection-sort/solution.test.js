@@ -1,8 +1,12 @@
 const expect = require('chai').expect;
-const selectionSort = require('./solution');
+const { selectionSort } = require('./solution');
 
 describe('Testing selection sort', () => {
-    it('Sorting result should equal [2,3,4,5,5,9,12,1]', () => {
-        expect(selectionSort([9, 4, 2, 5, 3, 5, 12, 1])).to.be.deep.equal([1, 2, 3, 4, 5, 5, 9, 12]);
+    let arr = [9, 4, 2, 5, 3, 5, 12, 1];
+    let result = [1, 2, 3, 4, 5, 5, 9, 12];
+
+    it(`For the array ${arr.toString()} result should equal ${result.toString()}`, () => {
+        selectionSort(arr);
+        expect(arr).to.be.deep.equal(result);
     })
 })

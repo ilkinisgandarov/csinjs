@@ -4,7 +4,7 @@
   "description": "Computer Science in JavaScript",
   "main": "",
   "scripts": {
-    "test": "mocha ./algorithms/**/*.test.js"
+    "test": "mocha ./algorithms/**/*.test.js ./problems/**/*.test.js"
   },
   "repository": {
     "type": "git",

@@ -5,11 +5,13 @@
  */
 function firstMissingPositive(nums) {
     if (!nums.length) return 1;
+
+    let maxVal = nums.length + 1;
   
     for (let i = 0; i < nums.length; i++) {
       let val = nums[i];
   
-      if (val <= 0) {
+      if (val < 1 || val > maxVal) {
         nums[i] = null;
   
         continue;

@@ -8,6 +8,7 @@
 * <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/algorithms/sorting/selection-sort">Selection Sort</a>
 
 ### Problems
+* <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/move-zeroes">Move zeroes - [easy,arrays]</a>
 * <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/circular-array-loop">Circular array loop - [hard,arrays]</a>
 * <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/first-missing-positive">First missing positive - [hard,arrays]</a>
 

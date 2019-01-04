@@ -9,6 +9,7 @@
 
 ### Problems
 * <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/move-zeroes">Move zeroes - [easy,arrays]</a>
+* <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/two-sum">Two sum - [easy,arrays]</a>
 * <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/circular-array-loop">Circular array loop - [hard,arrays]</a>
 * <a href="https://github.com/ilkinisgandarov/csinjs/tree/master/problems/first-missing-positive">First missing positive - [hard,arrays]</a>
 

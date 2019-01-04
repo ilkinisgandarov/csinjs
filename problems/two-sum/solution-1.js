@@ -6,6 +6,7 @@
  */
 function twoSum(nums, target) {
     let store = new Map();
+    
     for (let i = 0; i < nums.length; i++) {
         let delta = target - nums[i];
         if (store.has(delta)) {

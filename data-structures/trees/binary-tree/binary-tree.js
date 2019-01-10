@@ -44,3 +44,7 @@ class BinaryTreeNode {
     }
 
 }
+
+
+module.exports.BinaryTree = BinaryTree;
+module.exports.BinaryTreeNode = BinaryTreeNode;
